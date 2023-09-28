@@ -19,4 +19,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aka-suvam&show_icons=true&locale=en" alt="aka-suvam" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aka-suvam&" alt="aka-suvam" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aka-suvam&" alt="aka-suvam" /></p
+[![An image of @akasuvam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akasuvam)](https://holopin.io/@akasuvam)
