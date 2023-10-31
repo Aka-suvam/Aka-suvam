@@ -1,3 +1,5 @@
+[![An image of @akasuvam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akasuvam)](https://holopin.io/@akasuvam)
+
 <h1 align="center">Hi 👋, I'm Suvam</h1>
 <h3 align="center">I am student and have just started exploring the world of programming</h3>
 <img align="center" alt="Coding" width="500" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e474jkd0gzftsimaapqwnbzn7od8u0pqowm8hdp08cn&rid=giphy.gif&ct=g">
@@ -20,4 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aka-suvam&show_icons=true&locale=en" alt="aka-suvam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aka-suvam&" alt="aka-suvam" /></p
-[![An image of @akasuvam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akasuvam)](https://holopin.io/@akasuvam)
