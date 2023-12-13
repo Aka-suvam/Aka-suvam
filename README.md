@@ -14,6 +14,8 @@
 ## 🔰 Let's Connect:
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suvam-rai-66769a203/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SuvamRai4) 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
 
    
