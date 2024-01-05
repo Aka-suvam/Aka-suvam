@@ -5,6 +5,8 @@
 
 <h1 align="center">Hi 👋, I'm Suvam</h1>
 <h3 align="center">I am student and have just started exploring the world of programming</h3>
+<h3 align="center">from West Bengal , INDIA </h3>
+
 <img align="center" alt="Coding" width="500" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e474jkd0gzftsimaapqwnbzn7od8u0pqowm8hdp08cn&rid=giphy.gif&ct=g">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
